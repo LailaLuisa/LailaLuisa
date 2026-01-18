@@ -11,6 +11,3 @@ Atualmente, venho me dedicando aos estudos de programação voltada para **Back-
 - Python
 - VS Code
 - Git
-
-## 📫 Como me encontrar
-LinkedIn: linkedin.com/in/laila-luísa-940742263 
