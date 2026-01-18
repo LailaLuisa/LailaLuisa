@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Laila! 👋
 
-<!--
-**LailaLuisa/LailaLuisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, venho me dedicando aos estudos de programação voltada para **Back-end**, área que sempre tive forte interesse. Seja bem-vindo(a) ao meu espaço de evolução!
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🔭 Atualmente focada em dominar **Python**.
+- ⚙️ Estudando lógica de programação e estruturas de dados.
+- 🎯 Objetivo: Me tornar uma desenvolvedora Back-end sólida.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- Python
+- VS Code
+- Git
+
+## 📫 Como me encontrar
+[![LinkedIn] : linkedin.com/in/laila-luísa-940742263 
