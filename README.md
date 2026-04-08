@@ -7,7 +7,9 @@ Atualmente, venho me dedicando aos estudos de programação voltada para **Back-
 - ⚙️ Estudando lógica de programação e estruturas de dados.
 - 🎯 Objetivo: Me tornar uma desenvolvedora Back-end sólida.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Conhecimentos nas Tecnologias:
 - Python
 - VS Code
 - Git
+- HTML
+- CSS
