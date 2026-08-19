@@ -1,7 +1,6 @@
 # Olá, eu sou a Laila! 👋
-
-Atuo na área administrativa comercial lidando diretamente com tratamento de dados corporativos e otimização de processos. 
-Atualmente, estou em transição consolidada para as áreas de **Dados e Analytics Engineering**.
+ 
+Atualmente, estou em transição consolidada para as áreas de *Engenharia de Dados e Analytics Engineering**.
 
 ### 🎯 Objetivos de Carreira
 * **Analytics Engineer** (Modelagem, transformação e qualidade de dados);
