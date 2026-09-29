@@ -1,16 +1,17 @@
-## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laila-moura-940742263/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-<!--
-**LailaLuisa/LailaLuisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Laila! 👋
 
-Here are some ideas to get you started:
+### Sobre mim ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em transição de carreira para a área de **Engenharia de Dados**. Atualmente, estou desenvolvendo e documentando projetos focados em:
+
+- 🐍 **Pipelines de Dados:** Extração, transformação e carga (ETL/ELT) utilizando Python.
+- 🧹 **Tratamento e Qualidade de Dados:** Identificação de erros, remoção de duplicadas e padronização de informações.
+- 🗄️ **Modelagem de Dados:** Estruturação e manipulação de bancos de dados relacionais com SQL / MySQL.
+
+Estou construindo este perfil para demonstrar na prática minhas habilidades técnicas e me preparar para desafios no mercado de dados!
